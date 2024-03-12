@@ -1,933 +1,648 @@
-## HTB Certified Penetration Testing Specialist Path
+# HTB Certified Penetration Testing Specialist Path
 
 ## INFORMATION GATHERING WEB EDITION
-- Prolabs
-- Cybernetics A
-- APT Labs A
+### Prolabs
+1. Cybernetics
+2. APT Labs
 
 ## FOOTPRINTING
 ### MACHINES
-- Legacy E
-- Sneaky M
-- Jail I
-- SolidState M
-- Tally H
-- Aragog M
-- Olympus M
-- Reel H
-- Mischief I
-- Active E
-- Carrier M
-- Ethereal I
-- RedCross M
-- Conceal H
-- Sizzle I
-- FriendZone E
-- Querier M
-- Fortune I
-- Arkham M
-- Bastion E
-- Luke M
-- Chainsaw H
-- Scavenger H
-- Zetta H
-- Nest E
-- Oouch H
-- Remote E
-- Intense H
-- Sharp H
-- Attended I
-- Tentacle H
-- Atom M
-- pivotapi I
-- Pit M
-- Antique E
-- Return E
-- Shibboleth M
-- Pandora E
-- Flustered M
+1. Legacy
+2. Sneaky
+3. Jail
+4. SolidState
+5. Tally
+6. Aragog
+7. Olympus
+8. Reel
+9. Mischief
+10. Active
+11. Carrier
+12. Ethereal
+13. RedCross
+14. Conceal
+15. Sizzle
+16. FriendZone
+17. Querier
+18. Fortune
+19. Arkham
+20. Bastion
+21. Luke
+22. Chainsaw
+23. Scavenger
+24. Zetta
+25. Nest
+26. Oouch
+27. Remote
+28. Intense
+29. Sharp
+30. Attended
+31. Tentacle
+32. Atom
+33. pivotapi
+34. Pit
+35. Antique
+36. Return
+37. Shibboleth
+38. Pandora
+39. Flustered
 
 ## FILE TRANSFERS
 #### MACHINES
-- Rabbit I
-- Dropzone H
-- Hackback I
-- Sniper M
-- Feline H
-- Reel2 H
-- Cereal H
-- Sharp H
-- Proper H
-- Hancliffe H
+1. Rabbit
+2. Dropzone
+3. Hackback
+4. Sniper
+5. Feline
+6. Reel2
+7. Cereal
+8. Sharp
+9. Proper
+10. Hancliffe
 
-### SHELLS AND PAYLOADS
-- Zephyr I
+## SHELLS AND PAYLOADS
+1. Zephyr
 
 ## USING THE METASPLOIT FRAMEWORK
 #### MACHINES
-- Lame E
-- Legacy E
-- Optimum E
-- Arctic E
-- Holiday H
-- Bank E
-- Blue E
-- Nineveh M
-- Apocalyst M
-- Kotarak H
-- Shocker E
-- Sense E
-- Jeeves M
-- Nibbles E
-- Chatterbox M
-- Rabbit I
-- Fighter I
-- Dropzone H
-- Bounty E
-- Irked E
-- Traverxec E
-- Control H
-- Resolute M
-- Remote E
-- Blunder E
-- Fuse M
-- ScriptKiddie E
-- Atom M
-- Static H
-- Explore E
-- Driver E
-- Jarmis H
-- Acute H
-- OpenSource E
+1. Lame
+2. Legacy
+3. Optimum
+4. Arctic
+5. Holiday
+6. Bank
+7. Blue
+8. Nineveh
+9. Apocalyst
+10. Kotarak
+11. Shocker
+12. Sense
+13. Jeeves
+14. Nibbles
+15. Chatterbox
+16. Rabbit
+17. Fighter
+18. Dropzone
+19. Bounty
+20. Irked
+21. Traverxec
+22. Control
+23. Resolute
+24. Remote
+25. Blunder
+26. Fuse
+27. ScriptKiddie
+28. Atom
+29. Static
+30. Explore
+31. Driver
+32. Jarmis
+33. Acute
+34. OpenSource
 
 ## PASSWORD ATTACKS
 #### MACHINES
-- Joker H
-- Blocky E
-- Nineveh M
-- Mirai E
-- SolidState M
-- Kotarak H
-- Minion I
-- Node M
-- Tally H
-- Jeeves M
-- Ariekei I
-- Fulcrum I
-- Inception M
-- CrimeStoppers H
-- Nibbles E
-- Nightmare I
-- Chatterbox M
-- Falafel H
-- Aragog M
-- Bart M
-- Stratosphere M
-- Silo M
-- Poison M
-- Rabbit I
-- Olympus M
-- Sunday E
-- Dropzone H
-- Jerry E
-- Hawk M
-- Dab H
-- SecNotes M
-- Giddy M
-- Ypuffy M
-- Access E
-- Ethereal I
-- Frolic E
-- Zipper H
-- Curling E
-- BigHead I
-- Teacher E
-- Lightweight M
-- Chaos M
-- Conceal H
-- Sizzle I
-- Help E
-- FluJab H
-- FriendZone E
-- Querier M
-- Hackback I
-- Netmon E
-- Fortune I
-- Helpline H
-- Kryptos I
-- OneTwoSeven H
-- Bastion E
-- Ghoul H
-- Ellingson H
-- Luke M
-- Haystack E
-- Scavenger H
-- Zetta H
-- Wall M
-- Json M
-- Sniper M
-- Registry H
-- Mango M
-- Postman E
-- Traverxec E
-- Control H
-- Obscurity M
-- PlayerTwo I
-- OpenAdmin E
-- Monteverde M
-- Patents H
-- Sauna E
-- Multimaster I
-- Cascade M
-- ForwardSlash H
-- Magic M
-- Quick H
-- Blunder E
-- SneakyMailer M
-- Unbalanced H
-- Worker M
-- Omni E
-- Passage M
-- CrossFit I
-- Doctor E
-- Reel2 H
-- Jewel M
-- Bucket M
-- APT I
-- Academy E
-- Luanne E
-- Ready M
-- Delivery E
-- Tenet M
-- Sink I
-- Breadcrumbs H
-- Proper H
-- Armageddon E
-- Schooled M
-- Atom M
-- pivotapi I
-- Pit M
-- Explore E
-- Intelligence M
-- Pikaboo H
-- Writer M
-- Developer H
-- EarlyAccess H
-- Bolt M
-- Driver E
-- Hancliffe H
-- Devzat M
-- Overflow H
-- Toby I
-- Shibboleth M
-- Unicode M
-- Fingerprint I
-- Timing M
-- Search H
-- Scanned I
-- Acute H
-- Undetected M
-- GoodGames E
-- Object H
-- Catch M
-- Timelapse E
-- Talkative H
-- Hathor I
-- Noter M
-- Response I
-- OpenSource E
-- Seventeen H
-- StreamIO M
-- Trick E
-- Faculty M
-- Extension H
-- Moderators H
-- Shoppy E
-- Awkward M
+1. Joker
+2. Blocky
+3. Nineveh
+4. Mirai
+5. SolidState
+6. Kotarak
+7. Minion
+8. Node
+9. Tally
+10. Jeeves
+11. Ariekei
+12. Fulcrum
+13. Inception
+14. CrimeStoppers
+15. Nibbles
+16. Nightmare
+17. Chatterbox
+18. Falafel
+19. Aragog
+20. Bart
+21. Stratosphere
+22. Silo
+23. Poison
+24. Rabbit
+25. Olympus
+26. Sunday
+27. Dropzone
+28. Jerry
+29. Hawk
+30. Dab
+31. SecNotes
+32. Giddy
+33. Ypuffy
+34. Access
+35. Ethereal
+36. Frolic
+37. Zipper
+38. Curling
+39. BigHead
+40. Teacher
+41. Lightweight
+42. Chaos
+43. Conceal
+44. Sizzle
+45. Help
+46. FluJab
+47. FriendZone
+48. Querier
+49. Hackback
+50. Netmon
+51. Fortune
+52. Helpline
+53. Kryptos
+54. OneTwoSeven
+55. Bastion
+56. Ghoul
+57. Ellingson
+58. Luke
+59. Haystack
+60. Scavenger
+61. Zetta
+62. Wall
+63. Json
+64. Sniper
+65. Registry
+66. Mango
+67. Postman
+68. Traverxec
+69. Control
+70. Obscurity
+71. PlayerTwo
+72. OpenAdmin
+73. Monteverde
+74. Patents
+75. Sauna
+76. Multimaster
+77. Cascade
+78. ForwardSlash
+79. Magic
+80. Quick
+81. Blunder
+82. SneakyMailer
+83. Unbalanced
+84. Worker
+85. Omni
+86. Passage
+87. CrossFit
+88. Doctor
+89. Reel2
+90. Jewel
+91. Bucket
+92. APT
+93. Academy
+94. Luanne
+95. Ready
+96. Delivery
+97. Tenet
+98. Sink
+99. Breadcrumbs
+100. Proper
+101. Armageddon
+102. Schooled
+103. Atom
+104. pivotapi
+105. Pit
+106. Explore
+107. Intelligence
+108. Pikaboo
+109. Writer
+110. Developer
+111. EarlyAccess
+112. Bolt
+113. Driver
+114. Hancliffe
+115. Devzat
+116. Overflow
+117. Toby
+118. Shibboleth
+119. Unicode
+120. Fingerprint
+121. Timing
+122. Search
+123. Scanned
+124. Acute
+125. Undetected
+126. GoodGames
+127. Object
+128. Catch
+129. Timelapse
+130. Talkative
+131. Hathor
+132. Noter
+133. Response
+134. OpenSource
+135. Seventeen
+136. StreamIO
+137. Trick
+138. Faculty
+139. Extension
+140. Moderators
+141. Shoppy
+142. Awkward
 
 ## ATTACKING COMMON SERVICES
 #### MACHINES
-- Legacy E
-- SolidState M
-- Tally H
-- Aragog M
-- Olympus M
-- Reel H
-- Active E
-- Ethereal I
-- RedCross M
-- Conceal H
-- Sizzle I
-- FriendZone E
-- Querier M
-- Arkham M
-- Bastion E
-- Luke M
-- Chainsaw H
-- Heist E
-- Scavenger H
-- Zetta H
-- Resolute M
-- Monteverde M
-- Nest E
-- Oouch H
-- Multimaster I
-- ServMon E
-- Fuse M
-- Worker M
-- Reel2 H
-- APT I
-- Sharp H
-- Attended I
-- Tentacle H
-- Atom M
-- pivotapi I
-- Intelligence M
-- Bolt M
-- Return E
-- Search H
-- Flustered M
-- StreamIO M
+1. Legacy
+2. SolidState
+3. Tally
+4. Aragog
+5. Olympus
+6. Reel
+7. Active
+8. Ethereal
+9. RedCross
+10. Conceal
+11. Sizzle
+12. FriendZone
+13. Querier
+14. Arkham
+15. Bastion
+16. Luke
+17. Chainsaw
+18. Heist
+19. Scavenger
+20. Zetta
+21. Resolute
+22. Monteverde
+23. Nest
+24. Oouch
+25. Multimaster
+26. ServMon
+27. Fuse
+28. Worker
+29. Reel2
+30. APT
+31. Sharp
+32. Attended
+33. Tentacle
+34. Atom
+35. pivotapi
+36. Intelligence
+37. Bolt
+38. Return
+39. Search
+40. Flustered
+41. StreamIO
 
 ## Tracks
-- Beginner Track E
+1. Beginner Track
 
 ## Pivoting, Tunneling, and Port Forwarding
 ### MACHINES
-- Fulcrum I
-- Poison M
-- Reddish I
-- Vault M
-- BigHead I
-- Hackback I
-- Helpline H
-- Kryptos I
-- OneTwoSeven H
-- Ghoul H
-- PlayerTwo I
-- OpenAdmin E
-- Oouch H
-- ForwardSlash H
-- ServMon E
-- Bucket M
-- Static H
-- Horizontall E
-- Antique E
-- Fingerprint I
-- Pandora E
-- AdmirerToo H
-- Flustered M
-- Perspective I
-- Talkative H
-- OpenSource E
-- Carpediem H
-- Toby I
+1. Fulcrum
+2. Poison
+3. Reddish
+4. Vault
+5. BigHead
+6. Hackback
+7. Helpline
+8. Kryptos
+9. OneTwoSeven
+10. Ghoul
+11. PlayerTwo
+12. OpenAdmin
+13. Oouch
+14. ForwardSlash
+15. ServMon
+16. Bucket
+17. Static
+18. Horizontall
+19. Antique
+
+## Fingerprint
+1. Pandora
+2. AdmirerToo
+3. Flustered
+4. Perspective
+5. Talkative
+6. OpenSource
+7. Carpediem
+8. Toby
 
 ## Endgames
-- Ascension
+1. Ascension
 
 ## Active Directory Enumeration & Attacks
 ### MACHINES
-- Mantis H
-- Fulcrum I
-- Rabbit I
-- Reel H
-- Active E
-- Sizzle I
-- Luke M
-- Heist E
-- Forest E
-- Resolute M
-- Monteverde M
-- Sauna E
-- Multimaster I
-- Cascade M
-- ServMon E
-- Blackfield H
-- Fuse M
-- Worker M
-- Reel2 H
-- APT I
-- Tentacle H
-- pivotapi I
-- Intelligence M
-- Bolt M
-- Return E
-- Search H
-- Acute H
-- Object H
-- Timelapse E
-- Hathor I
-- StreamIO M
-- Scrambled M
+1. Mantis
+2. Fulcrum
+3. Rabbit
+4. Reel
+5. Active
+6. Sizzle
+7. Luke
+8. Heist
+9. Forest
+10. Resolute
+11. Monteverde
+12. Sauna
+13. Multimaster
+14. Cascade
+15. ServMon
+16. Blackfield
+17. Fuse
+18. Worker
+19. Reel2
+20. APT
+21. Tentacle
+22. PivotAPI
+23. Intelligence
+24. Bolt
+25. Return
+26. Search
+27. Acute
+28. Object
+29. Timelapse
+30. Hathor
+31. StreamIO
+32. Scrambled
 
 ## Tracks
-- Active Directory 101 M
+1. Active Directory 101
 
 ## Endgames
-- P.O.O.
-- Xen
-- RPG
+1. P.O.O.
+2. Xen
+3. RPG
 
 ## Attacking Web Applications with Ffuf
 ### MACHINES
-- Beep E
-- Blocky E
-- Nineveh M
-- Shrek H
-- Mirai E
-- Mantis H
-- Kotarak H
-- Minion I
-- Sense E
-- Enterprise M
-- Jeeves M
-- FluxCapacitor M
-- CrimeStoppers H
-- Nibbles E
-- Nightmare I
-- Falafel H
-- Valentine E
-- Bart M
-- Stratosphere M
-- Rabbit I
-- Canape M
-- Fighter I
-- TartarSauce M
-- DevOops M
-- Bounty E
-- Dab H
-- Giddy M
-- Carrier M
-- Frolic E
-- Vault M
-- RedCross M
-- BigHead I
-- Chaos M
-- Conceal H
-- Help E
-- FluJab H
-- FriendZone E
-- Hackback I
-- Kryptos I
-- Scavenger H
-- Bitlab M
-- Wall M
-- Registry H
-- Obscurity M
-- PlayerTwo I
-- OpenAdmin E
-- Patents H
-- Sauna E
-- Compromised H
-- CrossFit I
-- Reel2 H
-- Cereal H
-- Luanne E
-- Proper H
-- CrossFitTwo I
-- Monitors H
-- Writer M
-- EarlyAccess H
-- Bolt M
-- Driver E
-- Overflow H
-- Toby I
-- Search H
-- Acute H
-- Undetected M
-- GoodGames E
-- Timelapse E
-- Noter M
-- StreamIO M
-- Trick E
-- Extension H
-- Moderators H
-- Awkward M
+1. Beep
+2. Blocky
+3. Nineveh
+4. Shrek
+5. Mirai
+6. Mantis
+7. Kotarak
+8. Minion
+9. Sense
+10. Enterprise
+11. Jeeves
+12. FluxCapacitor
+13. CrimeStoppers
+14. Nibbles
+15. Nightmare
+16. Falafel
+17. Valentine
+18. Bart
+19. Stratosphere
+20. Rabbit
+21. Canape
+22. Fighter
+23. TartarSauce
+24. DevOops
+25. Bounty
+26. Dab
+27. Giddy
+28. Carrier
+29. Frolic
+30. Vault
+31. RedCross
+32. BigHead
+33. Chaos
+34. Conceal
+35. Help
+36. FluJab
+37. FriendZone
+38. Hackback
+39. Kryptos
+40. Scavenger
+41. Bitlab
+42. Wall
+43. Registry
+44. Obscurity
+45. PlayerTwo
+46. OpenAdmin
+47. Patents
+48. Sauna
+49. Compromised
+50. CrossFit
+51. Reel2
+52. Cereal
+53. Luanne
+54. Proper
+55. CrossFitTwo
+56. Monitors
+57. Writer
+58. EarlyAccess
+59. Bolt
+60. Driver
+61. Overflow
+62. Toby
+63. Search
+64. Acute
+65. Undetected
+66. GoodGames
+67. Timelapse
+68. Noter
+69. StreamIO
+70. Trick
+71. Extension
+72. Moderators
+73. Awkward
 
 ## Challenges
-- Cartographer E
+1. Cartographer
 
 ## Cross-Site Scripting (XSS)
 ### MACHINES
-- Holiday H
-- RedCross M
-- Bankrobber I
-- Book M
-- RopeTwo I
-- CrossFit I
-- Cereal H
-- Schooled M
-- EarlyAccess H
-- Stacked I
-- Fingerprint I
-- OverGraph H
-- Extension H
+1. Holiday
+2. RedCross
+3. Bankrobber
+4. Book
+5. RopeTwo
+6. CrossFit
+7. Cereal
+8. Schooled
+9. EarlyAccess
+10. Stacked
+11. Fingerprint
+12. OverGraph
+13. Extension
 
 ## File Inclusion
 ### MACHINES
-- Beep E
-- Nineveh M
-- CrimeStoppers H
-- Poison M
-- TartarSauce M
-- Smasher I
-- Waldo M
-- BigHead I
-- FriendZone E
-- LaCasaDePapel E
-- Unattended M
-- Ghoul H
-- Haystack E
-- Player H
-- RE H
-- Sniper M
-- OpenAdmin E
-- Patents H
-- Fatty I
-- ForwardSlash H
-- ServMon E
-- Blunder E
-- Tabby E
-- Reel2 H
-- Breadcrumbs H
-- Proper H
-- Monitors H
-- Pikaboo H
-- Writer M
-- EarlyAccess H
-- Devzat M
-- Spooktrol H
-- Unicode M
-- Backdoor E
-- Fingerprint I
-- Timing M
-- Paper E
-- OverGraph H
-- Response I
-- OpenSource E
-- Seventeen H
-- StreamIO M
-- Trick E
-- Faculty M
-- Moderators H
-- Ambassador M
-- Awkward M
+1. Beep
+2. Nineveh
+3. CrimeStoppers
+4. Poison
+5. TartarSauce
+6. Smasher
+7. Waldo
+8. BigHead
+9. FriendZone
+10. LaCasaDePapel
+11. Unattended
+12. Ghoul
+13. Haystack
+14. Player
+15. RE
+16. Sniper
+17. OpenAdmin
+18. Patents
+19. Fatty
+20. ForwardSlash
+21. ServMon
+22. Blunder
+23. Tabby
+24. Reel2
+25. Breadcrumbs
+26. Proper
+27. Monitors
+28. Pikaboo
+29. Writer
+30. EarlyAccess
+31. Devzat
+32. Spooktrol
+33. Unicode
+34. Backdoor
+35. Fingerprint
+36. Timing
+37. Paper
+38. OverGraph
+39. Response
+40. OpenSource
+41. Seventeen
+42. StreamIO
+43. Trick
+44. Faculty
+45. Moderators
+46. Ambassador
+47. Awkward
 
 ## Command Injections
 ### MACHINES
-- Optimum E
-- Bastard M
-- Cronos M
-- Haircut M
-- Holiday H
-- Europa M
-- Charon H
-- Ariekei I
-- Bashed E
-- FluxCapacitor M
-- Mischief I
-- Reddish I
-- Carrier M
-- RedCross M
-- Hackback I
-- Fortune I
-- Helpline H
-- Smasher2 I
-- Jarvis M
-- Haystack E
-- Craft M
-- Networked E
-- Bankrobber I
-- AI M
-- OpenAdmin E
-- Oouch H
-- Multimaster I
-- CrossFit I
-- ScriptKiddie E
-- Spectra E
-- Monitors H
-- dynstr M
-- Previse E
-- EarlyAccess H
-- Stacked I
-- Secret E
-- Spooktrol H
-- Fingerprint I
-- Union M
-- AdmirerToo H
-- Meta M
-- RouterSpace E
-- Catch M
-- Perspective I
-- Extension H
-- Photobomb E
-- Awkward M
-
-## Login Brute Forcing
-### MACHINES
-- Joker H
-- Nineveh M
-- Mirai E
-- SolidState M
-- Minion I
-- Node M
-- Tally H
-- Jeeves M
-- Ariekei I
-- Inception M
-- Nibbles E
-- Nightmare I
-- Falafel H
-- Bart M
-- Stratosphere M
-- Silo M
-- Rabbit I
-- Olympus M
-- Sunday E
-- Jerry E
-- Hawk M
-- Dab H
-- Giddy M
-- Ethereal I
-- Frolic E
-- Zipper H
-- BigHead I
-- Teacher E
-- Lightweight M
-- Chaos M
-- Conceal H
-- Sizzle I
-- Help E
-- FluJab H
-- Querier M
-- Hackback I
-- Netmon E
-- Helpline H
-- Kryptos I
-- OneTwoSeven H
-- Bastion E
-- Ghoul H
-- Ellingson H
-- Luke M
-- Zetta H
-- Wall M
-- Json M
-- Sniper M
-- Registry H
-- Postman E
-- Traverxec E
-- Control H
-- Obscurity M
-- PlayerTwo I
-- OpenAdmin E
-- Monteverde M
-- Sauna E
-- Multimaster I
-- Quick H
-- Blunder E
-- Worker M
-- Omni E
-- Passage M
-- Doctor E
-- Reel2 H
-- Jewel M
-- Bucket M
-- APT I
-- Luanne E
-- Delivery E
-- Proper H
-- Armageddon E
-- Intelligence M
-- Writer M
-- EarlyAccess H
-- Bolt M
-- Driver E
-- Overflow H
-- Toby I
-- Search H
-- Acute H
-- Undetected M
-- GoodGames E
-- Timelapse E
-- Noter M
-- StreamIO M
-- Trick E
-- Extension H
-- Moderators H
-- Awkward M
-
-## SQL Injection Fundamentals
-### MACHINES
-- Sneaky M
-- Holiday H
-- Europa M
-- Charon H
-- Enterprise M
-- Nightmare I
-- Falafel H
-- Rabbit I
-- Fighter I
-- SecNotes M
-- Oz H
-- Giddy M
-- RedCross M
-- Help E
-- FluJab H
-- Unattended M
-- Writeup E
-- Jarvis M
-- Scavenger H
-- Zetta H
-- Bankrobber I
-- AI M
-- Control H
-- Fatty I
-- Multimaster I
-- Magic M
-- Cache M
-- Intense H
-- Unbalanced H
-- Breadcrumbs H
-- Proper H
-- CrossFitTwo I
-- Toolbox E
-- Monitors H
-- Spider H
-- Writer M
-- EarlyAccess H
-- Validation E
-- Overflow H
-- Union M
-- Pandora E
-- GoodGames E
-- Seventeen H
-- StreamIO M
-- Trick E
-- Faculty M
-- Shoppy E
-
-## Login Brute Forcing
-### MACHINES
-- Joker H
-- Nineveh M
-- Mirai E
-- SolidState M
-- Minion I
-- Node M
-- Tally H
-- Jeeves M
-- Ariekei I
-- Inception M
-- Nibbles E
-- Nightmare I
-- Falafel H
-- Bart M
-- Stratosphere M
-- Silo M
-- Rabbit I
-- Olympus M
-- Sunday E
-- Jerry E
-- Hawk M
-- Dab H
-- Giddy M
-- Ethereal I
-- Frolic E
-- Zipper H
-- BigHead I
-- Teacher E
-- Lightweight M
-- Chaos M
-- Conceal H
-- Sizzle I
-- Help E
-- FluJab H
-- Querier M
-- Hackback I
-- Netmon E
-- Helpline H
-- Kryptos I
-- OneTwoSeven H
-- Bastion E
-- Ghoul H
-- Ellingson H
-- Luke M
-- Zetta H
-- Wall M
-- Json M
-- Sniper M
-- Registry H
-- Postman E
-- Traverxec E
-- Control H
-- Obscurity M
-- PlayerTwo I
-- OpenAdmin E
-- Monteverde M
-- Sauna E
-- Multimaster I
-- Quick H
-- Blunder E
-- Worker M
-- Omni E
-- Passage M
-- Doctor E
-- Reel2 H
-- Jewel M
-- Bucket M
-- APT I
-- Luanne E
-- Delivery E
-- Proper H
-- Armageddon E
-- Intelligence M
-- Writer M
-- EarlyAccess H
-- Bolt M
-- Driver E
-- Overflow H
-- Toby I
-- Search H
-- Acute H
-- Undetected M
-- GoodGames E
-- Timelapse E
-- Noter M
-- StreamIO M
-- Trick E
-- Extension H
-- Moderators H
-- Awkward M
-
-## Command Injections
-### MACHINES
-- Optimum E
-- Bastard M
-- Cronos M
-- Haircut M
-- Holiday H
-- Europa M
-- Charon H
-- Ariekei I
-- Bashed E
-- FluxCapacitor M
-- Mischief I
-- Reddish I
-- Carrier M
-- RedCross M
-- Hackback I
-- Fortune I
-- Helpline H
-- Smasher2 I
-- Jarvis M
-- Haystack E
-- Craft M
-- Networked E
-- Bankrobber I
-- AI M
-- OpenAdmin E
-- Oouch H
-- Multimaster I
-- CrossFit I
-- ScriptKiddie E
-- Spectra E
-- Monitors H
-- dynstr M
-- Previse E
-- EarlyAccess H
-- Stacked I
-- Secret E
-- Spooktrol H
-- Fingerprint I
-- Union M
-- AdmirerToo H
-- Meta M
-- RouterSpace E
-- Catch M
-- Perspective I
-- Extension H
-- Photobomb E
-- Awkward M
+1. Optimum
+2. Bastard
+3. Cronos
+4. Haircut
+5. Holiday
+6. Europa
+7. Charon
+8. Ariekei
+9. Bashed
+10. FluxCapacitor
+11. Mischief
+12. Reddish
+13. Carrier
+14. RedCross
+15. Hackback
+16. Fortune
+17. Helpline
+18. Smasher2
+19. Jarvis
+20. Haystack
+21. Craft
+22. Networked
+23. Bankrobber
+24. AI
+25. OpenAdmin
+26. Oouch
+27. Multimaster
+28. CrossFit
+29. ScriptKiddie
+30. Spectra
+31. Monitors
+32. dynstr
+33. Previse
+34. EarlyAccess
+35. Stacked
+36. Secret
+37. Spooktrol
+38. Fingerprint
+39. Union
+40. AdmirerToo
+41. Meta
+42. RouterSpace
+43. Catch
+44. Perspective
+45. Extension
+46. Photobomb
+47. Awkward
 
 ## Windows Privilege Escalation
 ### MACHINES
-- Legacy E
-- Devel E
-- Optimum E
-- Bastard M
-- Arctic E
-- Grandpa E
-- Granny E
-- Blue E
-- Mantis H
-- Minion I
-- Tally H
-- Jeeves M
-- Chatterbox M
-- Bart M
-- Silo M
-- Fighter I
-- Dropzone H
-- Bounty E
-- Reel H
-- Jerry E
-- Active E
-- SecNotes M
-- Giddy M
-- Access E
-- Ethereal I
-- BigHead I
-- Conceal H
-- Sizzle I
-- Querier M
-- Hackback I
-- Netmon E
-- Arkham M
-- Helpline H
-- Bastion E
-- RE H
-- Heist E
-- Bankrobber I
-- Json M
-- Sniper M
-- Forest E
-- Control H
-- Resolute M
-- Monteverde M
-- Nest E
-- Sauna E
-- Multimaster I
-- Remote E
-- Cascade M
-- ServMon E
-- Blackfield H
-- Fuse M
-- Buff E
-- Worker M
-- Omni E
-- Reel2 H
-- APT I
-- Cereal H
-- Sharp H
-- Breadcrumbs H
-- Proper H
-- Toolbox E
-- Atom M
-- Love E
-- Intelligence M
-- Driver E
-- Hancliffe H
-- Return E
-- Search H
-- Acute H
-- Object H
-- Perspective I
-- Timelapse E
-- Hathor I
-- StreamIO M
-- Scrambled M
-- Support E
+1. Legacy
+2. Devel
+3. Optimum
+4. Bastard
+5. Arctic
+6. Grandpa
+7. Granny
+8. Blue
+9. Mantis
+10. Minion
+11. Tally
+12. Jeeves
+13. Chatterbox
+14. Bart
+15. Silo
+16. Fighter
+17. Dropzone
+18. Bounty
+19. Reel
+20. Jerry
+21. Active
+22. SecNotes
+23. Giddy
+24. Access
+25. Ethereal
+26. BigHead
+27. Conceal
+28. Sizzle
+29. Querier
+30. Hackback
+31. Netmon
+32. Arkham
+33. Helpline
+34. Bastion
+35. RE
+36. Heist
+37. Bankrobber
+38. Json
+39. Sniper
+40. Forest
+41. Control
+42. Resolute
+43. Monteverde
+44. Nest
+45. Sauna
+46. Multimaster
+47. Remote
+48. Cascade
+49. ServMon
+50. Blackfield
+51. Fuse
+52. Buff
+53. Worker
+54. Omni
+55. Reel2
+56. APT
+57. Cereal
+58. Sharp
+59. Breadcrumbs
+60. Proper
+61. Toolbox
+62. Atom
+63. Love
+64. Intelligence
+65. Driver
+66. Hancliffe
+67. Return
+68. Search
+69. Acute
+70. Object
+71. Perspective
+72. Timelapse
+73. Hathor
+74. StreamIO
+75. Scrambled
+76. Support
 
 ## Attacking Enterprise Networks
 - Prolabs
